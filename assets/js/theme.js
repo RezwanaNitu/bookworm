@@ -5,13 +5,13 @@ Email: rezwananitu88@gmail.com
 
 $(document).ready(function() {
 	$('#bookworm-logo').hover(function() {
-				$(this).fadeOut(300);
-				$('#bookworm-logo-alt').fadeIn(300);
+				$(this).fadeOut(700);
+				$('#bookworm-logo-alt').fadeIn(700);
 			});
 
 			$('#bookworm-logo-alt').hover(function() {
-				$(this).fadeOut(300);
-				$('#bookworm-logo').fadeIn(300);
+				$(this).fadeOut(700);
+				$('#bookworm-logo').fadeIn(700);
 			});
 
 	//Parallax js
